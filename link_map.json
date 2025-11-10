@@ -16,6 +16,14 @@
     ]
   },
   {
+    "slug": "/etea-test-2025-preparation-plan",
+    "anchors": [
+      "ETEA PST test",
+      "ETEA CT test",
+      "ETEA preparation"
+    ]
+  },
+  {
     "slug": "/pts-jobs-test-2025-guide",
     "anchors": [
       "PTS test syllabus",
@@ -24,11 +32,27 @@
     ]
   },
   {
-    "slug": "/etea-test-2025-preparation-plan",
+    "slug": "/ppsc-test-preparation-guide-2025",
     "anchors": [
-      "ETEA PST test",
-      "ETEA CT test",
-      "ETEA preparation"
+      "PPSC Test",
+      "PPSC preparation",
+      "Punjab Public Service Commission"
+    ]
+  },
+  {
+    "slug": "/etea-test-preparation-guide-2025",
+    "anchors": [
+      "ETEA Test",
+      "ETEA preparation",
+      "Educational Testing and Evaluation Agency KPK"
+    ]
+  },
+  {
+    "slug": "/kppsc-test-guide-2025",
+    "anchors": [
+      "KPPSC Test",
+      "Provincial Public Service Commission",
+      "KPK government jobs"
     ]
   }
 ]

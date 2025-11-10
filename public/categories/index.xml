@@ -9,13 +9,6 @@
     <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Admissions</title>
-      <link>http://localhost:1313/categories/admissions/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/admissions/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Competitive Exams</title>
       <link>http://localhost:1313/categories/competitive-exams/</link>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
@@ -23,38 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>ETEA</title>
-      <link>http://localhost:1313/categories/etea/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/etea/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FPSC</title>
-      <link>http://localhost:1313/categories/fpsc/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/fpsc/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Government Jobs</title>
       <link>http://localhost:1313/categories/government-jobs/</link>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/government-jobs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teaching Jobs</title>
-      <link>http://localhost:1313/categories/teaching-jobs/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/teaching-jobs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test Preparation</title>
-      <link>http://localhost:1313/categories/test-preparation/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/test-preparation/</guid>
       <description></description>
     </item>
   </channel>
