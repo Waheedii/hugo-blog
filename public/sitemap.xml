@@ -2,17 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/admissions/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/competitive-exams/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/css/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ct/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/etea/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/etea/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/etea-test-2025-preparation-plan/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/fpsc/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fpsc/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/fpsc-one-paper-mcqs-2025-guide/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gat/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/government-jobs/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/government-jobs/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kpk/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nat/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nts/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/nts-test-pakistan-2025-guide/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/one-paper/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pst/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pts/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/pts-jobs-test-2025-guide/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pts-preparation/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/teaching-jobs/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/teaching-jobs/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/test-preparation/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/test-preparation/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/test-syllabus/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
