@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ETEA on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/etea/</link>
+    <description>Recent content in ETEA on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/etea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ETEA Test Preparation Guide 2025: Master the KPK Entry and Recruitment Exams</title>
+      <link>http://localhost:1313/blog/etea-test-preparation-guide-2025/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/etea-test-preparation-guide-2025/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/etea-test-preparation-guide-2025-hero.jpg&#34;&#xA;    alt=&#34;Overview of ETEA Test Preparation&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Overview of ETEA Test Preparation&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Mastering the ETEA: Your Ultimate Guide to Acing the Entrance Test&lt;/p&gt;&#xA;&lt;p&gt;The journey to securing a coveted spot in one of Khyber Pakhtunkhwa&amp;rsquo;s prestigious medical or engineering universities is a challenging one. It&amp;rsquo;s a path paved with late-night study sessions, complex formulas, and the ever-present pressure of a single, decisive exam: the ETEA Entrance Test. For thousands of aspiring students, this test is the gateway to their dreams. The anxiety is real, the competition is fierce, but success is absolutely within your reach.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
